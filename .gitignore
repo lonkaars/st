@@ -1,0 +1,7 @@
+FAQ
+*.o
+README
+LEGACY
+*.orig
+*.rej
+
