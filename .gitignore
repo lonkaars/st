@@ -1,7 +1,8 @@
 FAQ
-*.o
 README
 LEGACY
+TODO
+*.o
 *.orig
 *.rej
 
