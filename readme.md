@@ -9,4 +9,5 @@ This is my custom build of st, including the following patches:
 - st-scrollback-mouse
 - st-xresources
 - st-desktopentry
+- st-osc
 
