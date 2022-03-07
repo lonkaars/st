@@ -6,6 +6,12 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "";
+/* Spare fonts */
+static char *font2[] = {
+	"Material Design Icons:size=12",
+	"Noto Sans JP:pixelsize=9:weight=bold:size=0",
+	"Noto Sans KR:pixelsize=9:weight=bold:size=0",
+};
 static int borderpx = 0;
 
 /*
